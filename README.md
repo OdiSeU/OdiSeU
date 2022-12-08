@@ -1,9 +1,5 @@
-<div align=center>
+<div >
   <img src="https://capsule-render.vercel.app/api?type=waving&animation=blink&color=58afea&fontColor=ffffff&height=300&section=header&text=OdiseU&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Develop%20Everyday,%20Better%20than%20Yesterday&descAlignY=52"/>
-</div>
-
-
-<div align=center>
   
 ### Introduce
 <p>
@@ -27,7 +23,7 @@ src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=Amazon
 ### Etc
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img
 src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img
-src="https://img.shields.io/badge/.Env-ECD53F?style=flat-square&logo=.Env&logoColor=white"/>
+src="https://img.shields.io/badge/.Env-ECD53F?style=flat-square&logo=.Env&logoColor=white"/> <br> <br>
 ---
 ### Need more Study
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img
@@ -35,5 +31,4 @@ src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&
 ### Want to Learn
 <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=Electron&logoColor=white"/> <img
 src="https://img.shields.io/badge/GitHubActions-2088FF?style=flat-square&logo=GitHubActions&logoColor=white"/>
-
 </div>
