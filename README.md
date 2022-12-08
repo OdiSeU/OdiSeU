@@ -5,7 +5,7 @@
 <p>
   Hello, I'm OdiseU. I want to do anything with JavaScript.<br>
   I like learning what you know and teaching what i know.<br>
-  My goal is to be others goal.   
+  My goal is to be others goal.
 </p>  
 
 
@@ -22,8 +22,7 @@ src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&
 src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"/>
 ### Etc
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/> <img
-src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img
-src="https://img.shields.io/badge/.Env-ECD53F?style=flat-square&logo=.Env&logoColor=white"/> <br> <br>
+src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/><br><br>
 ---
 ### Need more Study
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=Next.js&logoColor=white"/> <img
