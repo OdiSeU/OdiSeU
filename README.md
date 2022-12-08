@@ -1,11 +1,12 @@
 <div >
-  <img src="https://capsule-render.vercel.app/api?type=waving&animation=blink&color=58afea&fontColor=ffffff&height=300&section=header&text=OdiseU&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Develop%20Everyday,%20Better%20than%20Yesterday&descAlignY=52"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&animation=blink&color=58afea&fontColor=ffffff&height=200&section=header&text=OdiseU&fontSize=80&animation=fadeIn&fontAlignY=38&descSize=15&desc=Develop%20Everyday,%20Better%20than%20Yesterday&descAlignY=55"/>
   
 ### Introduce
 <p>
   Hello, I'm OdiseU. I want to do anything with JavaScript.<br>
   I like learning what you know and teaching what i know.<br>
-  My goal is to be others goal.
+  My goal is to be others goal.<br><br>
+  I've been working as a Junior Full-Stack Developer since 2022-10.
 </p>  
 
 
