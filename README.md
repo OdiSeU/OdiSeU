@@ -3,8 +3,8 @@
   
 ### Introduce
 <p>
-  Hello, I'm OdiseU. I want to do anything with JavaScript.<br>
-  I like learning what you know and teaching what i know.<br>
+  Want to do anything with JavaScript.<br>
+  Like learning what you know and teaching what i know.<br>
   My goal is to be others goal.<br><br>
   I've been working as a Junior Full-Stack Developer since 2022-10.
 </p>  
