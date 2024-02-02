@@ -1,6 +1,4 @@
 <div >
-  <img src="https://capsule-render.vercel.app/api?type=waving&animation=blink&color=58afea&fontColor=ffffff&height=200&section=header&text=OdiseU&fontSize=80&animation=fadeIn&fontAlignY=38&descSize=15&desc=Develop%20Everyday,%20Better%20than%20Yesterday&descAlignY=55"/>
-  
 ### Introduce
 <p>
   Want to do anything with JavaScript.<br>
